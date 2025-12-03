@@ -2,6 +2,9 @@
 
 Title: Credit Card Fraud Detection System
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c62bca1e-d1fa-4914-8575-ec8785568be3" />
+
+
 Description:
 Our Credit Card Fraud Detection System is designed to provide robust security measures against fraudulent activities related to credit card transactions. Leveraging advanced machine learning algorithms and data analysis techniques, this system aims to detect and prevent unauthorized or fraudulent transactions in real-time.
 
