@@ -62,12 +62,15 @@ Credit card fraud is a major financial challenge. This project builds a binary c
 
 ---
 
-## 📈 Key Visualizations
+- ## 📈 Key Visualizations
 
 - Class distribution before and after SMOTE
 - Confusion Matrix
 - ROC Curve (AUC = 0.94)
 - Feature correlation heatmap
+
+![Confusion Matrix](images/confusion_matrix.png)
+![ROC Curve](images/roc_curve.png)
 
 ---
 
